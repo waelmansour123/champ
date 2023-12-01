@@ -36,5 +36,4 @@
         { "image": require("../assets/nidoqueen.jpg"), "id": 34 ,"price":500 ,"name":"nidoqueen"},
         { "image": require("../assets/parasect.jpg"), "id": 35 ,"price":500 ,"name":"parasect"},
       ],
-    };
 }
